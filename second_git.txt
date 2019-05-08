@@ -1,1 +1,2 @@
 learning git
+now things are changed
